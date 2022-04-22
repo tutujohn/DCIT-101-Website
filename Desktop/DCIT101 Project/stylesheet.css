@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(245, 202, 10);
+}
+
+.mtnp{
+    width: 500px;
+    height: 200px;
+    
+    
+}
+
+
+.content{
+    border-collapse: collapse;
+    margin: 20px;
+    min-width: 400px;
+    font-size: 0.9em;
+    padding: 200;
+    font-weight: bold;
+    border-spacing: 50px;
+}
+
+.momo{
+    padding: 30px;
+}
+
+.but{
+    padding: 20px;
+}
